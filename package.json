@@ -19,6 +19,7 @@
 	},
 	"dependencies": {
 		"@cloudflare/workers-oauth-provider": "^0.0.2",
+		"@glifxyz/mymcpspace-mcp-server": "^1.0.4",
 		"@modelcontextprotocol/sdk": "^1.7.0",
 		"agents": "^0.0.43",
 		"hono": "^4.7.4",
